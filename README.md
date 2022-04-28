@@ -21,7 +21,7 @@ classes: "cs100,cs200,math200"
 4) this will allow they flask server to run on 127.0.0.1:5000 or localhost:5000
 5) you can go into that address and view the program on your browser.
 
-each of the example accounts above do work and allow diffrent functions to work baces on their roles
+each of the example accounts above do work and allow diffrent functions to work based on their roles
 
 some things that still need to be added
  - home page show current users classes, then be able to click into those classes to see profesors posts
